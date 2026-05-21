@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun getNews(): List<Noticia> {
         return listOf(
-            Noticia("RORRO", "Rorro se unio a taxi"),
+            Noticia("RORRO", "Rorro se unio a taxiiiii"),
             Noticia("TAXI", "Taxi debuto el 7 de mayo"),
             Noticia("Shanty", "Shanty se va el 15 a USA")
         )
